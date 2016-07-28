@@ -1,4 +1,4 @@
-# Angular-PRBuild
+# AngularPRBuild
 
 #Install dependencies:
 ```
